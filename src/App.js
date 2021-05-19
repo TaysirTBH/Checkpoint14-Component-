@@ -5,11 +5,12 @@ import './style.css';
 
 function App() {
   return (
-    <>
-       <ProfilePhoto/>
-       <FullName/>
-       <Address/>
-    </>
+    <div className="App">
+      <ProfilePhoto/>
+      <FullName/>
+      <Address/>
+    </div>
+
   );
 }
 

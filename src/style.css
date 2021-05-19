@@ -1,0 +1,9 @@
+.App{
+    display: block;
+    justify-content: space-between ;
+    text-align: center;
+    margin: 30px 70px 30px 70px;
+    font-family: 'Raleway',sans-serif; 
+    font-size: 30px;  
+    
+  }
